@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/antoni/Documents/Sysopy/lab1",
+            "binaryPath": "/home/antoni/Documents/Sysopy/lab1/countdown",
+            "binaryArgs": []
+        }
+    ]
+}

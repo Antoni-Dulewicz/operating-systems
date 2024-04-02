@@ -1,0 +1,10 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/antoni/Documents/Sysopy/lab4",
+            "binaryPath": "/home/antoni/Documents/Sysopy/lab4/zad1",
+            "binaryArgs": []
+        }
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
+}

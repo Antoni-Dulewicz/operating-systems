@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/antoni/Documents/Sysopy/lab3",
+            "binaryPath": "/home/antoni/Documents/Sysopy/lab3/flipper",
+            "binaryArgs": []
+        }
+    ]
+}
