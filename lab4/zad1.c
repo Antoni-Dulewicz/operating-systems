@@ -23,9 +23,10 @@ int main(int argc, char *argv[]){
     }
 
     for(int i = 0; i < procNumber; i++){
-        wait(NULL);
+        wait();
     }
 
+    
     printf("%s\n",argv[1]);
     return 0;
 }
